@@ -1,2 +1,5 @@
-I created this booklist app to help me understand javascript fundamentals and DOM manipulation 
-Check it out, I'll be happy to hear your views on it!
+Booklist created in Bootstrap and JavaScript.
+I went with Bootstrap for its responsiveness
+For JavaScript I used ES6 classes to make it easier to declare and inherit the objects.
+Run this app here https://bookygale-app.netlify.app/
+
